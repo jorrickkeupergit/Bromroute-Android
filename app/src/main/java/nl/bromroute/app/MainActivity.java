@@ -2,7 +2,7 @@ package nl.bromroute.app;
 
 import android.Manifest;
 import android.app.Activity;
-import android.app.ActivityNotFoundException;
+import android.content.ActivityNotFoundException;
 import android.app.AlertDialog;
 import android.content.ClipData;
 import android.content.ClipboardManager;
